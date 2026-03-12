@@ -85,3 +85,4 @@ endmodule
 
 
 **RESULTS**
+Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully
