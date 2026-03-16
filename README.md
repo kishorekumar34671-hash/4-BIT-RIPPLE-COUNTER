@@ -77,6 +77,7 @@ endmodule
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
+
 <img width="1296" height="678" alt="Screenshot 2026-03-12 134849" src="https://github.com/user-attachments/assets/3802b311-6e19-4075-b6bd-e3c155b59a9f" />
 
 
